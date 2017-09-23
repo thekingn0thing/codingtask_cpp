@@ -3,5 +3,5 @@ project(codingtasks)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp leetcode/single_number_3.cpp)
+set(SOURCE_FILES main.cpp leetcode/single_number_3.cpp leetcode/SolutionSearch2DMatrix.cpp leetcode/SolutionSearch2DMatrix.h)
 add_executable(codingtasks_cpp ${SOURCE_FILES})

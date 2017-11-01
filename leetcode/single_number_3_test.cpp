@@ -1,6 +1,5 @@
 #include "../test/catch.hpp"
 #include "single_number_3.cpp"
-#include <vector>
 
 using namespace std;
 using Catch::Matchers::VectorContains;
